@@ -1,0 +1,3 @@
+I found it very hard to find out some extra information on the visual basic datareport OCX.So eventually having tried everything i could to find individual reports i looked more at Access itself.I made queries in Access as you can see and then opened the queries for the reports rather than searching the table and adding to the reports.
+I used Access2000 for this and visual basic 6.0 Sp5.0.
+Please do vote for me.
